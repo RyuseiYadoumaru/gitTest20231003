@@ -9,7 +9,7 @@ class Player
 public:
 	void PrintName()
 	{
-		cout << m_name;
+		cout << m_name << endl;
 	}
 
 	void SetName(string name) 
