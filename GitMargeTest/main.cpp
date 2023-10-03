@@ -6,6 +6,7 @@ int main()
 	Player player;
 	Enemy enemy;
 
+	enemy.SetName("aaaiiiuuu");
 	// 名前を出力するコード
 	player.PrintName();
 	enemy.PrintName();
