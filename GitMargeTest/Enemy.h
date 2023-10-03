@@ -20,5 +20,5 @@ public:
 	}
 
 private:
-	string m_name = "クリボー";
+	string m_name = "ヘイホー";
 };
