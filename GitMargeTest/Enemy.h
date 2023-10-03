@@ -20,5 +20,5 @@ public:
 	}
 
 private:
-	string m_name = "ƒNƒŠƒ{[";
+	string m_name = "mario";
 };
