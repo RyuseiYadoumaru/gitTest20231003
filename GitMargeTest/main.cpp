@@ -7,17 +7,17 @@ int main()
 	Enemy enemy;
 
 	// 名前を出力するコード
-	player.PrintName();
-	enemy.PrintName();
+	//player.PrintName();
+	//enemy.PrintName();
 
 	// プレイヤーの名前を変更する
 	// ここに矢動丸がエネミーを名前を変更してコンフリクトを起こします
 	// コンフリクト対応は二つ名前が変更されるようにしてください
 	enemy.SetName("enemy");
 
-	// 変更後の名前
-	//player.PrintName();
-	//enemy.PrintName();
+	 変更後の名前
+	player.PrintName();
+	enemy.PrintName();
 
 
 	return 0;
