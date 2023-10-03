@@ -14,7 +14,7 @@ int main()
 	// ここに矢動丸がエネミーを名前を変更してコンフリクトを起こします
 	// コンフリクト対応は二つ名前が変更されるようにしてください
 
-	enemy.SetName("aaa");
+	enemy.SetName("namamammam");
 
 
 	// 変更後の名前
