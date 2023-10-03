@@ -11,6 +11,7 @@ public:
 	{
 		// ここに名前を出力するコードを書く
 		printf("Ruche");
+		printf("ReRuche")
 
 	}
 
