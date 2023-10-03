@@ -9,8 +9,7 @@ class Player
 public:
 	void PrintName()
 	{
-		// ここに名前を出力するコードを書く
-
+		cout << m_name;
 	}
 
 	void SetName(string name) 
@@ -19,5 +18,5 @@ public:
 	}
 
 private:
-	string m_name = "名前";
+	string m_name = "北田";
 };
