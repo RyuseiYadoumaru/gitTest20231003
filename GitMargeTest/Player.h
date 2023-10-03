@@ -10,6 +10,7 @@ public:
 	void PrintName()
 	{
 		// ここに名前を出力するコードを書く
+		cout << m_name << endl;
 
 	}
 
@@ -19,5 +20,5 @@ public:
 	}
 
 private:
-	string m_name = "名前";
+	string m_name = "そいちろ";
 };
