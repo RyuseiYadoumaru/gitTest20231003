@@ -17,6 +17,8 @@ int main()
 	player.SetName("プレイヤー");
 	player.SetName("プレイヤーー");
 
+	enemy.SetName("エネミー");
+
 
 	// 変更後の名前
 	player.PrintName();
