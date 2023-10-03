@@ -19,5 +19,5 @@ public:
 	}
 
 private:
-	string m_name = "–¼–³‚µ‚ÌŒ •º‰q";
+	string m_name = "¼‰ª";
 };
