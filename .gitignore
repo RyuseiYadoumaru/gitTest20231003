@@ -31,5 +31,12 @@
 *.out
 *.app
 
+<<<<<<< HEAD
 .vs
+=======
+
+.vs
+
+# 不要なファイルを除外する
+>>>>>>> yadomaru
 GitMargeTest/x64/
