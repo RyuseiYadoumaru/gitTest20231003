@@ -10,7 +10,7 @@ public:
 	void PrintName()
 	{
 		// ここに名前を出力するコードを書く
-
+		cout << "クリボー" << endl;
 	}
 
 	void SetName(string name) 
