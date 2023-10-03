@@ -31,6 +31,8 @@
 *.out
 *.app
 
+
 .vs
-*不要なファイルを削除する
-GitMargeTest/x64
+
+# 不要なファイルを除外する
+GitMargeTest/x64/
