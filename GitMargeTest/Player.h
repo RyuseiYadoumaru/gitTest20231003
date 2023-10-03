@@ -10,14 +10,14 @@ public:
 	void PrintName()
 	{
 		// ここに名前を出力するコードを書く
-
+		cout << m_name;
 	}
 
-	void SetName(string name) 
+	void SetName(string name)
 	{
 		m_name = name;
 	}
 
 private:
-	string m_name = "名前";
+	string m_name = "プレイヤー";
 };
