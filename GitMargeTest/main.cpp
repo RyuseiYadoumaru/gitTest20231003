@@ -10,10 +10,11 @@ int main()
 	player.PrintName();
 	enemy.PrintName();
 
+	player_move();
 	// プレイヤーの名前を変更する
 	// ここに矢動丸がエネミーを名前を変更してコンフリクトを起こします
 	// コンフリクト対応は二つ名前が変更されるようにしてください
-
+	player.SetName("aaaaaa");
 
 	// 変更後の名前
 	//player.PrintName();
