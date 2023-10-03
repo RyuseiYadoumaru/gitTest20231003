@@ -16,7 +16,7 @@ int main()
 
 
 	// •ÏXŒã‚Ì–¼‘O
-	//player.PrintName();
+	player.PrintName();
 	//enemy.PrintName();
 
 
