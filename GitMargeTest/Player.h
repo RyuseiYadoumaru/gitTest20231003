@@ -9,7 +9,8 @@ class Player
 public:
 	void PrintName()
 	{
-		// ここに名前を出力するコードを書く
+		//名前の出力
+		cout << m_name << endl;
 
 	}
 

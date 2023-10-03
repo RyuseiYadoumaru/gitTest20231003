@@ -32,3 +32,7 @@
 *.app
 
 .vs
+
+#不要なファイルを除外する
+
+C:/GitMargeTest/x64
