@@ -10,7 +10,7 @@ public:
 	void PrintName()
 	{
 		// ここに名前を出力するコードを書く
-    printf("PLAYER NAME");
+    printf("PLAYER NAME OK ! tuika");
 	}
 
 	void SetName(string name) 
