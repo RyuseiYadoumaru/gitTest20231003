@@ -6,16 +6,17 @@ int main()
 	Player player;
 	Enemy enemy;
 
-	// ���O���o�͂���R�[�h
+	// 名前を出力するコード
 	player.PrintName();
 	enemy.PrintName();
 
-	// �v���C���[�̖��O��ύX����
-	// �����ɖ�ۂ��G�l�~�[�𖼑O��ύX���ăR���t���N�g���N�����܂�
-	// �R���t���N�g�Ή��͓���O���ύX�����悤�ɂ��Ă�������
+
+	// プレイヤーの名前を変更する
+	// ここに矢動丸がエネミーを名前を変更してコンフリクトを起こします
+	// コンフリクト対応は二つ名前が変更されるようにしてください
 
 
-	// �ύX��̖��O
+	// 変更後の名前
 	//player.PrintName();
 	//enemy.PrintName();
 

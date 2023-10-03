@@ -9,8 +9,8 @@ class Player
 public:
 	void PrintName()
 	{
-		// ‚±‚±‚É–¼‘O‚ğo—Í‚·‚éƒR[ƒh‚ğ‘‚­
-
+		// ã“ã“ã«åå‰ã‚’å‡ºåŠ›ã™ã‚‹ã‚³ãƒ¼ãƒ‰ã‚’æ›¸ã
+    printf("PLAYER NAME");
 	}
 
 	void SetName(string name) 
@@ -19,5 +19,5 @@ public:
 	}
 
 private:
-	string m_name = "–¼‘O";
+	string m_name = "åå‰";
 };

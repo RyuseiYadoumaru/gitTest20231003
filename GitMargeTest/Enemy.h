@@ -9,7 +9,7 @@ class Enemy
 public:
 	void PrintName()
 	{
-		// ‚±‚±‚É–¼‘O‚ğo—Í‚·‚éƒR[ƒh‚ğ‘‚­
+		// ã“ã“ã«åå‰ã‚’å‡ºåŠ›ã™ã‚‹ã‚³ãƒ¼ãƒ‰ã‚’æ›¸ã
 
 	}
 
@@ -19,5 +19,5 @@ public:
 	}
 
 private:
-	string m_name = "–¼‘O";
+	string m_name = "åå‰";
 };

@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\TOMOYA\Desktop\HAL大阪\20231002_Git_Sourfetree講演\GitTest_20231003\GitMargeTest\main.cpp(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\TOMOYA\Desktop\HAL大阪\20231002_Git_Sourfetree講演\GitTest_20231003\GitMargeTest\Player.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\TOMOYA\Desktop\HAL大阪\20231002_Git_Sourfetree講演\GitTest_20231003\GitMargeTest\Enemy.h(1,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+  GitMargeTest.vcxproj -> C:\Users\TOMOYA\Desktop\HAL大阪\20231002_Git_Sourfetree講演\GitTest_20231003\GitMargeTest\x64\Debug\GitMargeTest.exe
