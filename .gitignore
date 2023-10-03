@@ -35,4 +35,8 @@
 .vs
 
 # 不要なファイルを除外する
+<<<<<<< HEAD
 GitMargeTest/x64/Debug
+=======
+GitMargeTest/x64/
+>>>>>>> 2616360545a7fbb689b7fd4460a0d9afd7da7a83
