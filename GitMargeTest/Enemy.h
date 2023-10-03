@@ -21,5 +21,4 @@ public:
 
 private:
 	string m_name = "ƒNƒŠƒ{[";
-	string y_name = "aaaa";
 };
