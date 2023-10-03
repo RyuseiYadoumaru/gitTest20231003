@@ -7,18 +7,22 @@ using namespace std;
 class Enemy
 {
 public:
-	void PrintName()
-	{
-		// ‚±‚±‚É–¼‘O‚ğo—Í‚·‚éƒR[ƒh‚ğ‘‚­
-		cout << m_name << endl;
+  void PrintName()
+  {
+    // ã“ã“ã«åå‰ã‚’å‡ºåŠ›ã™ã‚‹ã‚³ãƒ¼ãƒ‰ã‚’æ›¸ã
+    cout << m_name << endl;
 
-	}
+  }
 
-	void SetName(string name)
-	{
-		m_name = name;
-	}
+  void SetName(string name)
+  {
+    m_name = name;
+  }
 
 private:
+<<<<<<< HEAD
 	string m_name = "mario";
+=======
+  string m_name = "ã‚¯ãƒªãƒœãƒ¼";
+>>>>>>> mukai
 };
