@@ -14,7 +14,7 @@ int main()
 	player.SetName("プレイヤーーー");
 	// ここに矢動丸がエネミーを名前を変更してコンフリクトを起こします
 	// コンフリクト対応は二つ名前が変更されるようにしてください
-
+	enemy.SetName("enemy");
 
 	// 変更後の名前
 	player.PrintName();
