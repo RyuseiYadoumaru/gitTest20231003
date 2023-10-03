@@ -15,7 +15,7 @@ int main()
 	// コンフリクト対応は二つ名前が変更されるようにしてください
 	enemy.SetName("enemy");
 
-	 変更後の名前
+	 //変更後の名前
 	player.PrintName();
 	enemy.PrintName();
 
