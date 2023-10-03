@@ -18,6 +18,7 @@ public:
 		m_name = name;
 	}
 
+
 private:
 	string m_name = "名前";
 };
